@@ -1,0 +1,9 @@
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\bin\Debug\FTP_Winform.exe.config
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\bin\Debug\FTP_Winform.exe
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\bin\Debug\FTP_Winform.pdb
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\obj\Debug\FTP_Winform.Form1.resources
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\obj\Debug\FTP_Winform.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\obj\Debug\FTP_Winform.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\obj\Debug\FTP_Winform.exe
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\obj\Debug\FTP_Winform.pdb
+C:\Users\Administrator\Desktop\SimpleFTP-master\FTP_Winform\obj\Debug\FTP_Winform.csprojResolveAssemblyReference.cache

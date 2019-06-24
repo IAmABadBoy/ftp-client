@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<AllConnections>
+  <Connection id="1" name="100.64.238.118:21">
+    <Account name="admin">123</Account>
+  </Connection>
+  <LastSelectedIndex IP="100.64.238.118:21">0</LastSelectedIndex>
+  <SavePath>C:/Users/Administrator/Desktop</SavePath>
+</AllConnections>
